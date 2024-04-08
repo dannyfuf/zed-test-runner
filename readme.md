@@ -1,6 +1,6 @@
 # Zed Test Runner
 
-Run tests with shortcuts in Zed editor.
+Run jest tests with shortcuts in Zed editor.
 
 ## Features
 
