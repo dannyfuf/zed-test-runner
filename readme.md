@@ -13,7 +13,7 @@ Run jest tests with shortcuts in Zed editor.
 2. Create an alias to run main.py and add it to your `.zshrc` or `.bashrc` file.
 
 ```
-alias zed-test-runner="python3 /Users/danny/personal/zed-test-runner/main.py"
+alias zed-test-runner="python3 /path/to/zed-test-runner/main.py"
 ```
 
 3. Add the tasks definitions to your `task.json` file
